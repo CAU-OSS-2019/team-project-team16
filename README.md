@@ -1,11 +1,12 @@
 # VAMAP
 
 A SIMPLE USER DATA-DRIVEN MAP-ANALYZING TOOL BASED ON FOLIUM
-https://github.com/opensource-projectteam16
+
+Check out our organization URL : https://github.com/opensource-projectteam16
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/opensource-projectteam16/Team16_Development/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/CAU-OSS-2019/team-project-team16/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -21,10 +22,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/CAU-OSS-2019/team-project-team16/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/opensource-projectteam16/Team16_Development/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/CAU-OSS-2019/team-project-team16/LICENSE) file for details
 
 
