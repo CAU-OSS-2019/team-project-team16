@@ -2,15 +2,11 @@
 
 A SIMPLE USER DATA-DRIVEN MAP-ANALYZING TOOL BASED ON FOLIUM
 
-Check out our organization URL : https://github.com/opensource-projectteam16
+Check out our organization [URL](https://github.com/opensource-projectteam16)
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://github.com/CAU-OSS-2019/team-project-team16/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
@@ -18,14 +14,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * **SUNGJAE MIN** - *Developer* - [alstjdwo1601](https://github.com/alstjdwo1601)
 * **SANGMIN LEE** - *Developer* - [sangminBangbada](https://github.com/sangminBangbada)
 * **SEOKCHEON JU** - *Developer* - [smallfish06](https://github.com/smallfish06)
-* **YOOSEOK JEONG** - *Developer* - [jeong5575](https://github.com/jeong5575)
-
-
-
-See also the list of [contributors](https://github.com/CAU-OSS-2019/team-project-team16/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/CAU-OSS-2019/team-project-team16/LICENSE) file for details
-
 
